@@ -1,0 +1,13 @@
+InitializeGame
+
+* Get winningPoints
+* Get gameType
+
+* Populate Hexagons
+	public list hexagonList
+	while read new line
+		hexagonList.add(new Node<T>(name))
+
+* Randomize Hexagon Resources
+	for items in hexagonList
+		if name.toInt()>0 

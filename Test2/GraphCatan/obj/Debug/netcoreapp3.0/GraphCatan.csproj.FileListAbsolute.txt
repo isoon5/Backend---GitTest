@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\GraphCatan\GraphCatan\bin\Debug\netcoreapp3.0\GraphCatan.exe
+C:\Users\Lenovo\source\repos\GraphCatan\GraphCatan\bin\Debug\netcoreapp3.0\GraphCatan.deps.json
+C:\Users\Lenovo\source\repos\GraphCatan\GraphCatan\bin\Debug\netcoreapp3.0\GraphCatan.runtimeconfig.json
+C:\Users\Lenovo\source\repos\GraphCatan\GraphCatan\bin\Debug\netcoreapp3.0\GraphCatan.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\GraphCatan\GraphCatan\bin\Debug\netcoreapp3.0\GraphCatan.dll
+C:\Users\Lenovo\source\repos\GraphCatan\GraphCatan\bin\Debug\netcoreapp3.0\GraphCatan.pdb
+C:\Users\Lenovo\source\repos\GraphCatan\GraphCatan\obj\Debug\netcoreapp3.0\GraphCatan.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\GraphCatan\GraphCatan\obj\Debug\netcoreapp3.0\GraphCatan.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\GraphCatan\GraphCatan\obj\Debug\netcoreapp3.0\GraphCatan.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\GraphCatan\GraphCatan\obj\Debug\netcoreapp3.0\GraphCatan.dll
+C:\Users\Lenovo\source\repos\GraphCatan\GraphCatan\obj\Debug\netcoreapp3.0\GraphCatan.pdb
